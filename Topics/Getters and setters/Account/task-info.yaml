@@ -1,0 +1,16 @@
+type: code
+files:
+  - name: src/Main.java
+    visible: true
+    highlight_level: NONE
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3023#comment
+status: Failed
+feedback:
+  message: "Compilation error\nMain.java:15: error: cannot find symbol\n         \
+    \                  account.isLocked() + \" \" + \n                           \
+    \       ^\n  symbol:   method isLocked()\n  location: variable account of type\
+    \ Account\n1 error\n"
+  time: "Tue, 06 Aug 2024 15:24:18 UTC"
+record: -1
+submission_language: java17

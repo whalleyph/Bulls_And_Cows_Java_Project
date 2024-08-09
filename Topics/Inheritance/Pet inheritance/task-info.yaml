@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: name
+  - text: birthDate
+  - text: setName(String name)
+  - text: getName()
+  - text: getBirthDate()
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3048#comment
+status: Solved
+record: -1
+local_check: false

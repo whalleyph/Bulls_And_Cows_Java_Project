@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BullsCowsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-09T12:39:09" hostname="SIS-A00197" time="0.557">
+  <properties/>
+  <testcase name="start" classname="BullsCowsTest" time="0.557"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> 1
+> 10
+The secret is prepared: * (0-9)
+> 0
+none
+> 1
+none
+> 2
+none
+> 3
+none
+> 4
+none
+> 5
+none
+> 6
+none
+> 7
+1 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 2?[0m
+> 4
+> 10
+The secret is prepared: **** (0-9)
+> 0000
+1 bull(s)
+> 1111
+1 bull(s)
+> 2222
+none
+> 3333
+1 bull(s)
+> 4444
+1 bull(s)
+> 0134
+1 bull(s) and 3 cow(s)
+> 1034
+4 cow(s)
+> 3014
+1 bull(s) and 3 cow(s)
+> 0314
+4 cow(s)
+> 1304
+4 cow(s)
+> 3104
+2 bull(s) and 2 cow(s)
+> 4103
+1 bull(s) and 3 cow(s)
+> 1403
+4 cow(s)
+> 0413
+4 cow(s)
+> 4013
+4 cow(s)
+> 1043
+1 bull(s) and 3 cow(s)
+> 0143
+2 bull(s) and 2 cow(s)
+> 0341
+1 bull(s) and 3 cow(s)
+> 3041
+2 bull(s) and 2 cow(s)
+> 4031
+4 cow(s)
+> 0431
+4 cow(s)
+> 3401
+1 bull(s) and 3 cow(s)
+> 4301
+4 cow(s)
+> 4310
+1 bull(s) and 3 cow(s)
+> 3410
+2 bull(s) and 2 cow(s)
+> 1430
+1 bull(s) and 3 cow(s)
+> 4130
+2 bull(s) and 2 cow(s)
+> 3140
+4 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 3?[0m
+> 6
+> 10
+The secret is prepared: ****** (0-9)
+> 000000
+1 bull(s)
+> 111111
+none
+> 222222
+none
+> 333333
+1 bull(s)
+> 444444
+1 bull(s)
+> 555555
+1 bull(s)
+> 666666
+none
+> 777777
+1 bull(s)
+> 888888
+1 bull(s)
+> 034578
+1 bull(s) and 5 cow(s)
+> 304578
+2 bull(s) and 4 cow(s)
+> 403578
+4 bull(s) and 2 cow(s)
+> 043578
+2 bull(s) and 4 cow(s)
+> 340578
+1 bull(s) and 5 cow(s)
+> 430578
+2 bull(s) and 4 cow(s)
+> 530478
+6 cow(s)
+> 350478
+6 cow(s)
+> 053478
+1 bull(s) and 5 cow(s)
+> 503478
+2 bull(s) and 4 cow(s)
+> 305478
+1 bull(s) and 5 cow(s)
+> 035478
+6 cow(s)
+> 045378
+6 cow(s)
+> 405378
+2 bull(s) and 4 cow(s)
+> 504378
+1 bull(s) and 5 cow(s)
+> 054378
+6 cow(s)
+> 450378
+1 bull(s) and 5 cow(s)
+> 540378
+6 cow(s)
+> 543078
+1 bull(s) and 5 cow(s)
+> 453078
+2 bull(s) and 4 cow(s)
+> 354078
+6 cow(s)
+> 534078
+6 cow(s)
+> 435078
+1 bull(s) and 5 cow(s)
+> 345078
+6 cow(s)
+> 745038
+6 cow(s)
+> 475038
+1 bull(s) and 5 cow(s)
+> 574038
+6 cow(s)
+> 754038
+6 cow(s)
+> 457038
+1 bull(s) and 5 cow(s)
+> 547038
+6 cow(s)
+> 047538
+1 bull(s) and 5 cow(s)
+> 407538
+3 bull(s) and 3 cow(s)
+> 704538
+2 bull(s) and 4 cow(s)
+> 074538
+1 bull(s) and 5 cow(s)
+> 470538
+2 bull(s) and 4 cow(s)
+> 740538
+1 bull(s) and 5 cow(s)
+> 750438
+6 cow(s)
+> 570438
+6 cow(s)
+> 075438
+6 cow(s)
+> 705438
+1 bull(s) and 5 cow(s)
+> 507438
+1 bull(s) and 5 cow(s)
+> 057438
+6 cow(s)
+> 054738
+6 cow(s)
+> 504738
+1 bull(s) and 5 cow(s)
+> 405738
+2 bull(s) and 4 cow(s)
+> 045738
+6 cow(s)
+> 540738
+6 cow(s)
+> 450738
+1 bull(s) and 5 cow(s)
+> 350748
+6 cow(s)
+> 530748
+6 cow(s)
+> 035748
+6 cow(s)
+> 305748
+1 bull(s) and 5 cow(s)
+> 503748
+2 bull(s) and 4 cow(s)
+> 053748
+1 bull(s) and 5 cow(s)
+> 753048
+1 bull(s) and 5 cow(s)
+> 573048
+1 bull(s) and 5 cow(s)
+> 375048
+6 cow(s)
+> 735048
+6 cow(s)
+> 537048
+6 cow(s)
+> 357048
+6 cow(s)
+> 307548
+2 bull(s) and 4 cow(s)
+> 037548
+1 bull(s) and 5 cow(s)
+> 730548
+1 bull(s) and 5 cow(s)
+> 370548
+1 bull(s) and 5 cow(s)
+> 073548
+2 bull(s) and 4 cow(s)
+> 703548
+3 bull(s) and 3 cow(s)
+> 705348
+1 bull(s) and 5 cow(s)
+> 075348
+6 cow(s)
+> 570348
+6 cow(s)
+> 750348
+6 cow(s)
+> 057348
+6 cow(s)
+> 507348
+1 bull(s) and 5 cow(s)
+> 407358
+2 bull(s) and 4 cow(s)
+> 047358
+6 cow(s)
+> 740358
+6 cow(s)
+> 470358
+1 bull(s) and 5 cow(s)
+> 074358
+6 cow(s)
+> 704358
+1 bull(s) and 5 cow(s)
+> 304758
+1 bull(s) and 5 cow(s)
+> 034758
+6 cow(s)
+> 430758
+1 bull(s) and 5 cow(s)
+> 340758
+6 cow(s)
+> 043758
+1 bull(s) and 5 cow(s)
+> 403758
+3 bull(s) and 3 cow(s)
+> 473058
+2 bull(s) and 4 cow(s)
+> 743058
+1 bull(s) and 5 cow(s)
+> 347058
+6 cow(s)
+> 437058
+1 bull(s) and 5 cow(s)
+> 734058
+6 cow(s)
+> 374058
+6 cow(s)
+> 370458
+6 cow(s)
+> 730458
+6 cow(s)
+> 037458
+6 cow(s)
+> 307458
+1 bull(s) and 5 cow(s)
+> 703458
+2 bull(s) and 4 cow(s)
+> 073458
+1 bull(s) and 5 cow(s)
+> 573408
+1 bull(s) and 5 cow(s)
+> 753408
+1 bull(s) and 5 cow(s)
+> 357408
+6 cow(s)
+> 537408
+6 cow(s)
+> 735408
+6 cow(s)
+> 375408
+6 cow(s)
+> 475308
+1 bull(s) and 5 cow(s)
+> 745308
+6 cow(s)
+> 547308
+6 cow(s)
+> 457308
+1 bull(s) and 5 cow(s)
+> 754308
+6 cow(s)
+> 574308
+6 cow(s)
+> 534708
+6 cow(s)
+> 354708
+6 cow(s)
+> 453708
+2 bull(s) and 4 cow(s)
+> 543708
+1 bull(s) and 5 cow(s)
+> 345708
+6 cow(s)
+> 435708
+1 bull(s) and 5 cow(s)
+> 437508
+2 bull(s) and 4 cow(s)
+> 347508
+1 bull(s) and 5 cow(s)
+> 743508
+2 bull(s) and 4 cow(s)
+> 473508
+3 bull(s) and 3 cow(s)
+> 374508
+1 bull(s) and 5 cow(s)
+> 734508
+1 bull(s) and 5 cow(s)
+> 834507
+2 bull(s) and 4 cow(s)
+> 384507
+2 bull(s) and 4 cow(s)
+> 483507
+4 bull(s) and 2 cow(s)
+> 843507
+3 bull(s) and 3 cow(s)
+> 348507
+2 bull(s) and 4 cow(s)
+> 438507
+3 bull(s) and 3 cow(s)
+> 538407
+1 bull(s) and 5 cow(s)
+> 358407
+1 bull(s) and 5 cow(s)
+> 853407
+2 bull(s) and 4 cow(s)
+> 583407
+2 bull(s) and 4 cow(s)
+> 385407
+1 bull(s) and 5 cow(s)
+> 835407
+1 bull(s) and 5 cow(s)
+> 845307
+1 bull(s) and 5 cow(s)
+> 485307
+2 bull(s) and 4 cow(s)
+> 584307
+1 bull(s) and 5 cow(s)
+> 854307
+1 bull(s) and 5 cow(s)
+> 458307
+2 bull(s) and 4 cow(s)
+> 548307
+1 bull(s) and 5 cow(s)
+> 543807
+2 bull(s) and 4 cow(s)
+> 453807
+3 bull(s) and 3 cow(s)
+> 354807
+1 bull(s) and 5 cow(s)
+> 534807
+1 bull(s) and 5 cow(s)
+> 435807
+2 bull(s) and 4 cow(s)
+> 345807
+1 bull(s) and 5 cow(s)
+> 045837
+1 bull(s) and 5 cow(s)
+> 405837
+3 bull(s) and 3 cow(s)
+> 504837
+2 bull(s) and 4 cow(s)
+> 054837
+1 bull(s) and 5 cow(s)
+> 450837
+2 bull(s) and 4 cow(s)
+> 540837
+1 bull(s) and 5 cow(s)
+> 840537
+2 bull(s) and 4 cow(s)
+> 480537
+3 bull(s) and 3 cow(s)
+> 084537
+2 bull(s) and 4 cow(s)
+> 804537
+3 bull(s) and 3 cow(s)
+> 408537
+4 bull(s) and 2 cow(s)
+> 048537
+2 bull(s) and 4 cow(s)
+> 058437
+1 bull(s) and 5 cow(s)
+> 508437
+2 bull(s) and 4 cow(s)
+> 805437
+2 bull(s) and 4 cow(s)
+> 085437
+1 bull(s) and 5 cow(s)
+> 580437
+1 bull(s) and 5 cow(s)
+> 850437
+1 bull(s) and 5 cow(s)
+> 854037
+1 bull(s) and 5 cow(s)
+> 584037
+1 bull(s) and 5 cow(s)
+> 485037
+2 bull(s) and 4 cow(s)
+> 845037
+1 bull(s) and 5 cow(s)
+> 548037
+1 bull(s) and 5 cow(s)
+> 458037
+2 bull(s) and 4 cow(s)
+> 358047
+1 bull(s) and 5 cow(s)
+> 538047
+1 bull(s) and 5 cow(s)
+> 835047
+1 bull(s) and 5 cow(s)
+> 385047
+1 bull(s) and 5 cow(s)
+> 583047
+2 bull(s) and 4 cow(s)
+> 853047
+2 bull(s) and 4 cow(s)
+> 053847
+2 bull(s) and 4 cow(s)
+> 503847
+3 bull(s) and 3 cow(s)
+> 305847
+2 bull(s) and 4 cow(s)
+> 035847
+1 bull(s) and 5 cow(s)
+> 530847
+1 bull(s) and 5 cow(s)
+> 350847
+1 bull(s) and 5 cow(s)
+> 380547
+2 bull(s) and 4 cow(s)
+> 830547
+2 bull(s) and 4 cow(s)
+> 038547
+2 bull(s) and 4 cow(s)
+> 308547
+3 bull(s) and 3 cow(s)
+> 803547
+4 bull(s) and 2 cow(s)
+> 083547
+3 bull(s) and 3 cow(s)
+> 085347
+1 bull(s) and 5 cow(s)
+> 805347
+2 bull(s) and 4 cow(s)
+> 508347
+2 bull(s) and 4 cow(s)
+> 058347
+1 bull(s) and 5 cow(s)
+> 850347
+1 bull(s) and 5 cow(s)
+> 580347
+1 bull(s) and 5 cow(s)
+> 480357
+2 bull(s) and 4 cow(s)
+> 840357
+1 bull(s) and 5 cow(s)
+> 048357
+1 bull(s) and 5 cow(s)
+> 408357
+3 bull(s) and 3 cow(s)
+> 804357
+2 bull(s) and 4 cow(s)
+> 084357
+1 bull(s) and 5 cow(s)
+> 384057
+1 bull(s) and 5 cow(s)
+> 834057
+1 bull(s) and 5 cow(s)
+> 438057
+2 bull(s) and 4 cow(s)
+> 348057
+1 bull(s) and 5 cow(s)
+> 843057
+2 bull(s) and 4 cow(s)
+> 483057
+3 bull(s) and 3 cow(s)
+> 403857
+4 bull(s) and 2 cow(s)
+> 043857
+2 bull(s) and 4 cow(s)
+> 340857
+1 bull(s) and 5 cow(s)
+> 430857
+2 bull(s) and 4 cow(s)
+> 034857
+1 bull(s) and 5 cow(s)
+> 304857
+2 bull(s) and 4 cow(s)
+> 308457
+2 bull(s) and 4 cow(s)
+> 038457
+1 bull(s) and 5 cow(s)
+> 830457
+1 bull(s) and 5 cow(s)
+> 380457
+1 bull(s) and 5 cow(s)
+> 083457
+2 bull(s) and 4 cow(s)
+> 803457
+3 bull(s) and 3 cow(s)
+> 503487
+4 bull(s) and 2 cow(s)
+> 053487
+3 bull(s) and 3 cow(s)
+> 350487
+2 bull(s) and 4 cow(s)
+> 530487
+2 bull(s) and 4 cow(s)
+> 035487
+2 bull(s) and 4 cow(s)
+> 305487
+3 bull(s) and 3 cow(s)
+> 405387
+4 bull(s) and 2 cow(s)
+> 045387
+2 bull(s) and 4 cow(s)
+> 540387
+2 bull(s) and 4 cow(s)
+> 450387
+3 bull(s) and 3 cow(s)
+> 054387
+2 bull(s) and 4 cow(s)
+> 504387
+3 bull(s) and 3 cow(s)
+> 534087
+2 bull(s) and 4 cow(s)
+> 354087
+2 bull(s) and 4 cow(s)
+> 453087
+4 bull(s) and 2 cow(s)
+> 543087
+3 bull(s) and 3 cow(s)
+> 345087
+2 bull(s) and 4 cow(s)
+> 435087
+3 bull(s) and 3 cow(s)
+> 430587
+4 bull(s) and 2 cow(s)
+> 340587
+3 bull(s) and 3 cow(s)
+> 043587
+4 bull(s) and 2 cow(s)
+> 403587
+6 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 4?[0m
+> 11
+> 10
+error
+?[1;31m
+Start test 5?[0m
+> 4
+> 16
+The secret is prepared: **** (0-9, a-f)
+> 0000
+none
+> 1111
+none
+> 2222
+none
+> 3333
+none
+> 4444
+1 bull(s)
+> 5555
+none
+> 6666
+none
+> 7777
+none
+> 8888
+1 bull(s)
+> 9999
+none
+> aaaa
+1 bull(s)
+> bbbb
+none
+> cccc
+none
+> dddd
+none
+> eeee
+1 bull(s)
+> 48ae
+1 bull(s) and 3 cow(s)
+> 84ae
+4 cow(s)
+> a48e
+1 bull(s) and 3 cow(s)
+> 4a8e
+2 bull(s) and 2 cow(s)
+> 8a4e
+4 cow(s)
+> a84e
+4 cow(s)
+> e84a
+1 bull(s) and 3 cow(s)
+> 8e4a
+2 bull(s) and 2 cow(s)
+> 4e8a
+4 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 6?[0m
+> 6
+> 36
+The secret is prepared: ****** (0-9, a-z)
+> 000000
+none
+> 111111
+none
+> 222222
+none
+> 333333
+none
+> 444444
+none
+> 555555
+none
+> 666666
+none
+> 777777
+none
+> 888888
+1 bull(s)
+> 999999
+none
+> aaaaaa
+none
+> bbbbbb
+none
+> cccccc
+1 bull(s)
+> dddddd
+none
+> eeeeee
+none
+> ffffff
+none
+> gggggg
+none
+> hhhhhh
+none
+> iiiiii
+none
+> jjjjjj
+1 bull(s)
+> kkkkkk
+none
+> llllll
+none
+> mmmmmm
+1 bull(s)
+> nnnnnn
+none
+> oooooo
+none
+> pppppp
+none
+> qqqqqq
+none
+> rrrrrr
+none
+> ssssss
+none
+> tttttt
+1 bull(s)
+> uuuuuu
+1 bull(s)
+> 8cjmtu
+2 bull(s) and 4 cow(s)
+> c8jmtu
+1 bull(s) and 5 cow(s)
+> j8cmtu
+2 bull(s) and 4 cow(s)
+> 8jcmtu
+3 bull(s) and 3 cow(s)
+> cj8mtu
+1 bull(s) and 5 cow(s)
+> jc8mtu
+1 bull(s) and 5 cow(s)
+> mc8jtu
+6 cow(s)
+> cm8jtu
+6 cow(s)
+> 8mcjtu
+2 bull(s) and 4 cow(s)
+> m8cjtu
+1 bull(s) and 5 cow(s)
+> c8mjtu
+6 cow(s)
+> 8cmjtu
+1 bull(s) and 5 cow(s)
+> 8jmctu
+1 bull(s) and 5 cow(s)
+> j8mctu
+6 cow(s)
+> m8jctu
+6 cow(s)
+> 8mjctu
+1 bull(s) and 5 cow(s)
+> jm8ctu
+6 cow(s)
+> mj8ctu
+6 cow(s)
+> mjc8tu
+1 bull(s) and 5 cow(s)
+> jmc8tu
+1 bull(s) and 5 cow(s)
+> cmj8tu
+6 cow(s)
+> mcj8tu
+6 cow(s)
+> jcm8tu
+6 cow(s)
+> cjm8tu
+6 cow(s)
+> tjm8cu
+6 cow(s)
+> jtm8cu
+1 bull(s) and 5 cow(s)
+> mtj8cu
+1 bull(s) and 5 cow(s)
+> tmj8cu
+6 cow(s)
+> jmt8cu
+6 cow(s)
+> mjt8cu
+6 cow(s)
+> 8jtmcu
+2 bull(s) and 4 cow(s)
+> j8tmcu
+1 bull(s) and 5 cow(s)
+> t8jmcu
+1 bull(s) and 5 cow(s)
+> 8tjmcu
+3 bull(s) and 3 cow(s)
+> jt8mcu
+2 bull(s) and 4 cow(s)
+> tj8mcu
+1 bull(s) and 5 cow(s)
+> tm8jcu
+6 cow(s)
+> mt8jcu
+1 bull(s) and 5 cow(s)
+> 8tmjcu
+2 bull(s) and 4 cow(s)
+> t8mjcu
+6 cow(s)
+> m8tjcu
+6 cow(s)
+> 8mtjcu
+1 bull(s) and 5 cow(s)
+> 8mjtcu
+1 bull(s) and 5 cow(s)
+> m8jtcu
+6 cow(s)
+> j8mtcu
+6 cow(s)
+> 8jmtcu
+1 bull(s) and 5 cow(s)
+> mj8tcu
+6 cow(s)
+> jm8tcu
+6 cow(s)
+> cm8tju
+6 cow(s)
+> mc8tju
+6 cow(s)
+> 8cmtju
+1 bull(s) and 5 cow(s)
+> c8mtju
+6 cow(s)
+> m8ctju
+1 bull(s) and 5 cow(s)
+> 8mctju
+2 bull(s) and 4 cow(s)
+> tmc8ju
+1 bull(s) and 5 cow(s)
+> mtc8ju
+2 bull(s) and 4 cow(s)
+> ctm8ju
+1 bull(s) and 5 cow(s)
+> tcm8ju
+6 cow(s)
+> mct8ju
+6 cow(s)
+> cmt8ju
+6 cow(s)
+> c8tmju
+1 bull(s) and 5 cow(s)
+> 8ctmju
+2 bull(s) and 4 cow(s)
+> tc8mju
+1 bull(s) and 5 cow(s)
+> ct8mju
+2 bull(s) and 4 cow(s)
+> 8tcmju
+4 bull(s) and 2 cow(s)
+> t8cmju
+2 bull(s) and 4 cow(s)
+> t8mcju
+6 cow(s)
+> 8tmcju
+2 bull(s) and 4 cow(s)
+> mt8cju
+1 bull(s) and 5 cow(s)
+> tm8cju
+6 cow(s)
+> 8mtcju
+1 bull(s) and 5 cow(s)
+> m8tcju
+6 cow(s)
+> j8tcmu
+6 cow(s)
+> 8jtcmu
+1 bull(s) and 5 cow(s)
+> tj8cmu
+6 cow(s)
+> jt8cmu
+1 bull(s) and 5 cow(s)
+> 8tjcmu
+2 bull(s) and 4 cow(s)
+> t8jcmu
+6 cow(s)
+> c8jtmu
+6 cow(s)
+> 8cjtmu
+1 bull(s) and 5 cow(s)
+> jc8tmu
+6 cow(s)
+> cj8tmu
+6 cow(s)
+> 8jctmu
+2 bull(s) and 4 cow(s)
+> j8ctmu
+1 bull(s) and 5 cow(s)
+> jtc8mu
+2 bull(s) and 4 cow(s)
+> tjc8mu
+1 bull(s) and 5 cow(s)
+> cjt8mu
+6 cow(s)
+> jct8mu
+6 cow(s)
+> tcj8mu
+6 cow(s)
+> ctj8mu
+1 bull(s) and 5 cow(s)
+> ct8jmu
+1 bull(s) and 5 cow(s)
+> tc8jmu
+6 cow(s)
+> 8ctjmu
+1 bull(s) and 5 cow(s)
+> c8tjmu
+6 cow(s)
+> t8cjmu
+1 bull(s) and 5 cow(s)
+> 8tcjmu
+3 bull(s) and 3 cow(s)
+> mtcj8u
+2 bull(s) and 4 cow(s)
+> tmcj8u
+1 bull(s) and 5 cow(s)
+> cmtj8u
+6 cow(s)
+> mctj8u
+6 cow(s)
+> tcmj8u
+6 cow(s)
+> ctmj8u
+1 bull(s) and 5 cow(s)
+> jtmc8u
+1 bull(s) and 5 cow(s)
+> tjmc8u
+6 cow(s)
+> mjtc8u
+6 cow(s)
+> jmtc8u
+6 cow(s)
+> tmjc8u
+6 cow(s)
+> mtjc8u
+1 bull(s) and 5 cow(s)
+> mcjt8u
+6 cow(s)
+> cmjt8u
+6 cow(s)
+> jmct8u
+1 bull(s) and 5 cow(s)
+> mjct8u
+1 bull(s) and 5 cow(s)
+> cjmt8u
+6 cow(s)
+> jcmt8u
+6 cow(s)
+> jctm8u
+1 bull(s) and 5 cow(s)
+> cjtm8u
+1 bull(s) and 5 cow(s)
+> tjcm8u
+2 bull(s) and 4 cow(s)
+> jtcm8u
+3 bull(s) and 3 cow(s)
+> ctjm8u
+2 bull(s) and 4 cow(s)
+> tcjm8u
+1 bull(s) and 5 cow(s)
+> ucjm8t
+1 bull(s) and 5 cow(s)
+> cujm8t
+1 bull(s) and 5 cow(s)
+> jucm8t
+2 bull(s) and 4 cow(s)
+> ujcm8t
+2 bull(s) and 4 cow(s)
+> cjum8t
+1 bull(s) and 5 cow(s)
+> jcum8t
+1 bull(s) and 5 cow(s)
+> mcuj8t
+6 cow(s)
+> cmuj8t
+6 cow(s)
+> umcj8t
+1 bull(s) and 5 cow(s)
+> mucj8t
+1 bull(s) and 5 cow(s)
+> cumj8t
+6 cow(s)
+> ucmj8t
+6 cow(s)
+> ujmc8t
+6 cow(s)
+> jumc8t
+6 cow(s)
+> mujc8t
+6 cow(s)
+> umjc8t
+6 cow(s)
+> jmuc8t
+6 cow(s)
+> mjuc8t
+6 cow(s)
+> mjcu8t
+1 bull(s) and 5 cow(s)
+> jmcu8t
+1 bull(s) and 5 cow(s)
+> cmju8t
+6 cow(s)
+> mcju8t
+6 cow(s)
+> jcmu8t
+6 cow(s)
+> cjmu8t
+6 cow(s)
+> 8jmuct
+1 bull(s) and 5 cow(s)
+> j8muct
+6 cow(s)
+> m8juct
+6 cow(s)
+> 8mjuct
+1 bull(s) and 5 cow(s)
+> jm8uct
+6 cow(s)
+> mj8uct
+6 cow(s)
+> uj8mct
+1 bull(s) and 5 cow(s)
+> ju8mct
+1 bull(s) and 5 cow(s)
+> 8ujmct
+2 bull(s) and 4 cow(s)
+> u8jmct
+1 bull(s) and 5 cow(s)
+> j8umct
+1 bull(s) and 5 cow(s)
+> 8jumct
+2 bull(s) and 4 cow(s)
+> 8mujct
+1 bull(s) and 5 cow(s)
+> m8ujct
+6 cow(s)
+> u8mjct
+6 cow(s)
+> 8umjct
+1 bull(s) and 5 cow(s)
+> mu8jct
+6 cow(s)
+> um8jct
+6 cow(s)
+> umj8ct
+6 cow(s)
+> muj8ct
+6 cow(s)
+> jum8ct
+6 cow(s)
+> ujm8ct
+6 cow(s)
+> mju8ct
+6 cow(s)
+> jmu8ct
+6 cow(s)
+> cmu8jt
+6 cow(s)
+> mcu8jt
+6 cow(s)
+> ucm8jt
+6 cow(s)
+> cum8jt
+6 cow(s)
+> muc8jt
+1 bull(s) and 5 cow(s)
+> umc8jt
+1 bull(s) and 5 cow(s)
+> 8mcujt
+2 bull(s) and 4 cow(s)
+> m8cujt
+1 bull(s) and 5 cow(s)
+> c8mujt
+6 cow(s)
+> 8cmujt
+1 bull(s) and 5 cow(s)
+> mc8ujt
+6 cow(s)
+> cm8ujt
+6 cow(s)
+> cu8mjt
+1 bull(s) and 5 cow(s)
+> uc8mjt
+1 bull(s) and 5 cow(s)
+> 8cumjt
+2 bull(s) and 4 cow(s)
+> c8umjt
+1 bull(s) and 5 cow(s)
+> u8cmjt
+2 bull(s) and 4 cow(s)
+> 8ucmjt
+3 bull(s) and 3 cow(s)
+> 8umcjt
+1 bull(s) and 5 cow(s)
+> u8mcjt
+6 cow(s)
+> m8ucjt
+6 cow(s)
+> 8mucjt
+1 bull(s) and 5 cow(s)
+> um8cjt
+6 cow(s)
+> mu8cjt
+6 cow(s)
+> ju8cmt
+6 cow(s)
+> uj8cmt
+6 cow(s)
+> 8jucmt
+1 bull(s) and 5 cow(s)
+> j8ucmt
+6 cow(s)
+> u8jcmt
+6 cow(s)
+> 8ujcmt
+1 bull(s) and 5 cow(s)
+> cuj8mt
+6 cow(s)
+> ucj8mt
+6 cow(s)
+> jcu8mt
+6 cow(s)
+> cju8mt
+6 cow(s)
+> ujc8mt
+1 bull(s) and 5 cow(s)
+> juc8mt
+1 bull(s) and 5 cow(s)
+> j8cumt
+1 bull(s) and 5 cow(s)
+> 8jcumt
+2 bull(s) and 4 cow(s)
+> cj8umt
+6 cow(s)
+> jc8umt
+6 cow(s)
+> 8cjumt
+1 bull(s) and 5 cow(s)
+> c8jumt
+6 cow(s)
+> c8ujmt
+6 cow(s)
+> 8cujmt
+1 bull(s) and 5 cow(s)
+> uc8jmt
+6 cow(s)
+> cu8jmt
+6 cow(s)
+> 8ucjmt
+2 bull(s) and 4 cow(s)
+> u8cjmt
+1 bull(s) and 5 cow(s)
+> m8cjut
+2 bull(s) and 4 cow(s)
+> 8mcjut
+3 bull(s) and 3 cow(s)
+> cm8jut
+1 bull(s) and 5 cow(s)
+> mc8jut
+1 bull(s) and 5 cow(s)
+> 8cmjut
+2 bull(s) and 4 cow(s)
+> c8mjut
+1 bull(s) and 5 cow(s)
+> j8mcut
+1 bull(s) and 5 cow(s)
+> 8jmcut
+2 bull(s) and 4 cow(s)
+> mj8cut
+1 bull(s) and 5 cow(s)
+> jm8cut
+1 bull(s) and 5 cow(s)
+> 8mjcut
+2 bull(s) and 4 cow(s)
+> m8jcut
+1 bull(s) and 5 cow(s)
+> mcj8ut
+1 bull(s) and 5 cow(s)
+> cmj8ut
+1 bull(s) and 5 cow(s)
+> jmc8ut
+2 bull(s) and 4 cow(s)
+> mjc8ut
+2 bull(s) and 4 cow(s)
+> cjm8ut
+1 bull(s) and 5 cow(s)
+> jcm8ut
+1 bull(s) and 5 cow(s)
+> jc8mut
+2 bull(s) and 4 cow(s)
+> cj8mut
+2 bull(s) and 4 cow(s)
+> 8jcmut
+4 bull(s) and 2 cow(s)
+> j8cmut
+3 bull(s) and 3 cow(s)
+> c8jmut
+2 bull(s) and 4 cow(s)
+> 8cjmut
+3 bull(s) and 3 cow(s)
+> 8tjmuc
+4 bull(s) and 2 cow(s)
+> t8jmuc
+2 bull(s) and 4 cow(s)
+> j8tmuc
+2 bull(s) and 4 cow(s)
+> 8jtmuc
+3 bull(s) and 3 cow(s)
+> tj8muc
+2 bull(s) and 4 cow(s)
+> jt8muc
+3 bull(s) and 3 cow(s)
+> mt8juc
+2 bull(s) and 4 cow(s)
+> tm8juc
+1 bull(s) and 5 cow(s)
+> 8mtjuc
+2 bull(s) and 4 cow(s)
+> m8tjuc
+1 bull(s) and 5 cow(s)
+> t8mjuc
+1 bull(s) and 5 cow(s)
+> 8tmjuc
+3 bull(s) and 3 cow(s)
+> 8jmtuc
+2 bull(s) and 4 cow(s)
+> j8mtuc
+1 bull(s) and 5 cow(s)
+> m8jtuc
+1 bull(s) and 5 cow(s)
+> 8mjtuc
+2 bull(s) and 4 cow(s)
+> jm8tuc
+1 bull(s) and 5 cow(s)
+> mj8tuc
+1 bull(s) and 5 cow(s)
+> mjt8uc
+1 bull(s) and 5 cow(s)
+> jmt8uc
+1 bull(s) and 5 cow(s)
+> tmj8uc
+1 bull(s) and 5 cow(s)
+> mtj8uc
+2 bull(s) and 4 cow(s)
+> jtm8uc
+2 bull(s) and 4 cow(s)
+> tjm8uc
+1 bull(s) and 5 cow(s)
+> ujm8tc
+6 cow(s)
+> jum8tc
+6 cow(s)
+> muj8tc
+6 cow(s)
+> umj8tc
+6 cow(s)
+> jmu8tc
+6 cow(s)
+> mju8tc
+6 cow(s)
+> 8jumtc
+2 bull(s) and 4 cow(s)
+> j8umtc
+1 bull(s) and 5 cow(s)
+> u8jmtc
+1 bull(s) and 5 cow(s)
+> 8ujmtc
+2 bull(s) and 4 cow(s)
+> ju8mtc
+1 bull(s) and 5 cow(s)
+> uj8mtc
+1 bull(s) and 5 cow(s)
+> um8jtc
+6 cow(s)
+> mu8jtc
+6 cow(s)
+> 8umjtc
+1 bull(s) and 5 cow(s)
+> u8mjtc
+6 cow(s)
+> m8ujtc
+6 cow(s)
+> 8mujtc
+1 bull(s) and 5 cow(s)
+> 8mjutc
+1 bull(s) and 5 cow(s)
+> m8jutc
+6 cow(s)
+> j8mutc
+6 cow(s)
+> 8jmutc
+1 bull(s) and 5 cow(s)
+> mj8utc
+6 cow(s)
+> jm8utc
+6 cow(s)
+> tm8ujc
+6 cow(s)
+> mt8ujc
+1 bull(s) and 5 cow(s)
+> 8tmujc
+2 bull(s) and 4 cow(s)
+> t8mujc
+6 cow(s)
+> m8tujc
+6 cow(s)
+> 8mtujc
+1 bull(s) and 5 cow(s)
+> umt8jc
+6 cow(s)
+> mut8jc
+6 cow(s)
+> tum8jc
+6 cow(s)
+> utm8jc
+1 bull(s) and 5 cow(s)
+> mtu8jc
+1 bull(s) and 5 cow(s)
+> tmu8jc
+6 cow(s)
+> t8umjc
+1 bull(s) and 5 cow(s)
+> 8tumjc
+3 bull(s) and 3 cow(s)
+> ut8mjc
+2 bull(s) and 4 cow(s)
+> tu8mjc
+1 bull(s) and 5 cow(s)
+> 8utmjc
+2 bull(s) and 4 cow(s)
+> u8tmjc
+1 bull(s) and 5 cow(s)
+> u8mtjc
+6 cow(s)
+> 8umtjc
+1 bull(s) and 5 cow(s)
+> mu8tjc
+6 cow(s)
+> um8tjc
+6 cow(s)
+> 8mutjc
+1 bull(s) and 5 cow(s)
+> m8utjc
+6 cow(s)
+> j8utmc
+6 cow(s)
+> 8jutmc
+1 bull(s) and 5 cow(s)
+> uj8tmc
+6 cow(s)
+> ju8tmc
+6 cow(s)
+> 8ujtmc
+1 bull(s) and 5 cow(s)
+> u8jtmc
+6 cow(s)
+> t8jumc
+6 cow(s)
+> 8tjumc
+2 bull(s) and 4 cow(s)
+> jt8umc
+1 bull(s) and 5 cow(s)
+> tj8umc
+6 cow(s)
+> 8jtumc
+1 bull(s) and 5 cow(s)
+> j8tumc
+6 cow(s)
+> jut8mc
+6 cow(s)
+> ujt8mc
+6 cow(s)
+> tju8mc
+6 cow(s)
+> jtu8mc
+1 bull(s) and 5 cow(s)
+> utj8mc
+1 bull(s) and 5 cow(s)
+> tuj8mc
+6 cow(s)
+> tu8jmc
+6 cow(s)
+> ut8jmc
+1 bull(s) and 5 cow(s)
+> 8tujmc
+2 bull(s) and 4 cow(s)
+> t8ujmc
+6 cow(s)
+> u8tjmc
+6 cow(s)
+> 8utjmc
+1 bull(s) and 5 cow(s)
+> mutj8c
+6 cow(s)
+> umtj8c
+6 cow(s)
+> tmuj8c
+6 cow(s)
+> mtuj8c
+1 bull(s) and 5 cow(s)
+> utmj8c
+1 bull(s) and 5 cow(s)
+> tumj8c
+6 cow(s)
+> jumt8c
+6 cow(s)
+> ujmt8c
+6 cow(s)
+> mjut8c
+6 cow(s)
+> jmut8c
+6 cow(s)
+> umjt8c
+6 cow(s)
+> mujt8c
+6 cow(s)
+> mtju8c
+1 bull(s) and 5 cow(s)
+> tmju8c
+6 cow(s)
+> jmtu8c
+6 cow(s)
+> mjtu8c
+6 cow(s)
+> tjmu8c
+6 cow(s)
+> jtmu8c
+1 bull(s) and 5 cow(s)
+> jtum8c
+2 bull(s) and 4 cow(s)
+> tjum8c
+1 bull(s) and 5 cow(s)
+> ujtm8c
+1 bull(s) and 5 cow(s)
+> jutm8c
+1 bull(s) and 5 cow(s)
+> tujm8c
+1 bull(s) and 5 cow(s)
+> utjm8c
+2 bull(s) and 4 cow(s)
+> utcm8j
+4 bull(s) and 2 cow(s)
+> tucm8j
+3 bull(s) and 3 cow(s)
+> cutm8j
+2 bull(s) and 4 cow(s)
+> uctm8j
+2 bull(s) and 4 cow(s)
+> tcum8j
+2 bull(s) and 4 cow(s)
+> ctum8j
+3 bull(s) and 3 cow(s)
+> mtuc8j
+2 bull(s) and 4 cow(s)
+> tmuc8j
+1 bull(s) and 5 cow(s)
+> umtc8j
+1 bull(s) and 5 cow(s)
+> mutc8j
+1 bull(s) and 5 cow(s)
+> tumc8j
+1 bull(s) and 5 cow(s)
+> utmc8j
+2 bull(s) and 4 cow(s)
+> ucmt8j
+1 bull(s) and 5 cow(s)
+> cumt8j
+1 bull(s) and 5 cow(s)
+> muct8j
+2 bull(s) and 4 cow(s)
+> umct8j
+2 bull(s) and 4 cow(s)
+> cmut8j
+1 bull(s) and 5 cow(s)
+> mcut8j
+1 bull(s) and 5 cow(s)
+> mctu8j
+1 bull(s) and 5 cow(s)
+> cmtu8j
+1 bull(s) and 5 cow(s)
+> tmcu8j
+2 bull(s) and 4 cow(s)
+> mtcu8j
+3 bull(s) and 3 cow(s)
+> ctmu8j
+2 bull(s) and 4 cow(s)
+> tcmu8j
+1 bull(s) and 5 cow(s)
+> 8cmutj
+2 bull(s) and 4 cow(s)
+> c8mutj
+1 bull(s) and 5 cow(s)
+> m8cutj
+2 bull(s) and 4 cow(s)
+> 8mcutj
+3 bull(s) and 3 cow(s)
+> cm8utj
+1 bull(s) and 5 cow(s)
+> mc8utj
+1 bull(s) and 5 cow(s)
+> uc8mtj
+2 bull(s) and 4 cow(s)
+> cu8mtj
+2 bull(s) and 4 cow(s)
+> 8ucmtj
+4 bull(s) and 2 cow(s)
+> u8cmtj
+3 bull(s) and 3 cow(s)
+> c8umtj
+2 bull(s) and 4 cow(s)
+> 8cumtj
+3 bull(s) and 3 cow(s)
+> 8muctj
+2 bull(s) and 4 cow(s)
+> m8uctj
+1 bull(s) and 5 cow(s)
+> u8mctj
+1 bull(s) and 5 cow(s)
+> 8umctj
+2 bull(s) and 4 cow(s)
+> mu8ctj
+1 bull(s) and 5 cow(s)
+> um8ctj
+1 bull(s) and 5 cow(s)
+> umc8tj
+2 bull(s) and 4 cow(s)
+> muc8tj
+2 bull(s) and 4 cow(s)
+> cum8tj
+1 bull(s) and 5 cow(s)
+> ucm8tj
+1 bull(s) and 5 cow(s)
+> mcu8tj
+1 bull(s) and 5 cow(s)
+> cmu8tj
+1 bull(s) and 5 cow(s)
+> tmu8cj
+1 bull(s) and 5 cow(s)
+> mtu8cj
+2 bull(s) and 4 cow(s)
+> utm8cj
+2 bull(s) and 4 cow(s)
+> tum8cj
+1 bull(s) and 5 cow(s)
+> mut8cj
+1 bull(s) and 5 cow(s)
+> umt8cj
+1 bull(s) and 5 cow(s)
+> 8mtucj
+2 bull(s) and 4 cow(s)
+> m8tucj
+1 bull(s) and 5 cow(s)
+> t8mucj
+1 bull(s) and 5 cow(s)
+> 8tmucj
+3 bull(s) and 3 cow(s)
+> mt8ucj
+2 bull(s) and 4 cow(s)
+> tm8ucj
+1 bull(s) and 5 cow(s)
+> tu8mcj
+2 bull(s) and 4 cow(s)
+> ut8mcj
+3 bull(s) and 3 cow(s)
+> 8tumcj
+4 bull(s) and 2 cow(s)
+> t8umcj
+2 bull(s) and 4 cow(s)
+> u8tmcj
+2 bull(s) and 4 cow(s)
+> 8utmcj
+3 bull(s) and 3 cow(s)
+> 8umtcj
+2 bull(s) and 4 cow(s)
+> u8mtcj
+1 bull(s) and 5 cow(s)
+> m8utcj
+1 bull(s) and 5 cow(s)
+> 8mutcj
+2 bull(s) and 4 cow(s)
+> um8tcj
+1 bull(s) and 5 cow(s)
+> mu8tcj
+1 bull(s) and 5 cow(s)
+> cu8tmj
+1 bull(s) and 5 cow(s)
+> uc8tmj
+1 bull(s) and 5 cow(s)
+> 8cutmj
+2 bull(s) and 4 cow(s)
+> c8utmj
+1 bull(s) and 5 cow(s)
+> u8ctmj
+2 bull(s) and 4 cow(s)
+> 8uctmj
+3 bull(s) and 3 cow(s)
+> tuc8mj
+2 bull(s) and 4 cow(s)
+> utc8mj
+3 bull(s) and 3 cow(s)
+> ctu8mj
+2 bull(s) and 4 cow(s)
+> tcu8mj
+1 bull(s) and 5 cow(s)
+> uct8mj
+1 bull(s) and 5 cow(s)
+> cut8mj
+1 bull(s) and 5 cow(s)
+> c8tumj
+1 bull(s) and 5 cow(s)
+> 8ctumj
+2 bull(s) and 4 cow(s)
+> tc8umj
+1 bull(s) and 5 cow(s)
+> ct8umj
+2 bull(s) and 4 cow(s)
+> 8tcumj
+4 bull(s) and 2 cow(s)
+> t8cumj
+2 bull(s) and 4 cow(s)
+> t8ucmj
+1 bull(s) and 5 cow(s)
+> 8tucmj
+3 bull(s) and 3 cow(s)
+> ut8cmj
+2 bull(s) and 4 cow(s)
+> tu8cmj
+1 bull(s) and 5 cow(s)
+> 8utcmj
+2 bull(s) and 4 cow(s)
+> u8tcmj
+1 bull(s) and 5 cow(s)
+> m8tcuj
+2 bull(s) and 4 cow(s)
+> 8mtcuj
+3 bull(s) and 3 cow(s)
+> tm8cuj
+2 bull(s) and 4 cow(s)
+> mt8cuj
+3 bull(s) and 3 cow(s)
+> 8tmcuj
+4 bull(s) and 2 cow(s)
+> t8mcuj
+2 bull(s) and 4 cow(s)
+> c8mtuj
+2 bull(s) and 4 cow(s)
+> 8cmtuj
+3 bull(s) and 3 cow(s)
+> mc8tuj
+2 bull(s) and 4 cow(s)
+> cm8tuj
+2 bull(s) and 4 cow(s)
+> 8mctuj
+4 bull(s) and 2 cow(s)
+> m8ctuj
+3 bull(s) and 3 cow(s)
+> mtc8uj
+4 bull(s) and 2 cow(s)
+> tmc8uj
+3 bull(s) and 3 cow(s)
+> cmt8uj
+2 bull(s) and 4 cow(s)
+> mct8uj
+2 bull(s) and 4 cow(s)
+> tcm8uj
+2 bull(s) and 4 cow(s)
+> ctm8uj
+3 bull(s) and 3 cow(s)
+> ct8muj
+4 bull(s) and 2 cow(s)
+> tc8muj
+3 bull(s) and 3 cow(s)
+> 8ctmuj
+4 bull(s) and 2 cow(s)
+> c8tmuj
+3 bull(s) and 3 cow(s)
+> t8cmuj
+4 bull(s) and 2 cow(s)
+> 8tcmuj
+6 bull(s)
+Congratulations! You guessed the secret code.
+?[1;31m
+Start test 7?[0m
+> 0
+> 1
+error
+?[1;31m
+Start test 8?[0m
+> 10
+> 9
+error
+?[1;31m
+Start test 9?[0m
+> 9
+> 37
+error
+?[1;31m
+Start test 10?[0m
+> abcdefg 1 -6
+error
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

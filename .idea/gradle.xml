@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Bulls and Cows/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Array/Creating arrays" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Array/Initializing and using first element of array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Sum of multiples of 3 in an array" />
+            <option value="$PROJECT_DIR$/Topics/Array/The last element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Array/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Filling the blanks to print array elements in a method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Two groups of errors" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Determine a block for handling exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Method named process" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Resolving the 'Divide by Zero' error in an application" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/String to double conversion" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Exception handling/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Account" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/BankAccount Balance  Getters   Setters" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Implementing encapsulation in the 'Product' class" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Java  Getters, Setters   Access Control" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/The name of setter" />
+            <option value="$PROJECT_DIR$/Topics/Getters and setters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Calculating package shipping cost by weight" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Class hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Default packages" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Fixing a greeting program" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Getting input" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Match imports" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Required input" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/The default import" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/The full name of a class" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Grouping classes with packages/Which classes are accessible" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Overview the hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Sorting the crash  Whose fault is it" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Classes for Hospital" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Incorrect class hierarchies" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Inheriting members" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Pet inheritance" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/The lost modifier" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Using inheritance to print car instance" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A special method to initialize objects" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Constructor definition" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/How to write a constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Car" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Circle" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Declare me" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Implementing an instance method to print greeting messages" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/In a box" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/The Robot class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Accessing constructors of a base class" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Calling parent class constructor in derived class" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Employees" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Fix the non-compiled hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Inheritance and constructor usage in pet namespace" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/When the keyword cannot be used" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/When the keyword is used" />
+            <option value="$PROJECT_DIR$/Topics/Keyword  super/Why we use the super keyword" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Class instantiation" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Creating a Student class with multiple constructors" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Creating a vehicle management system with default values" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Employee" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Entanglement" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Phone" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Suppose, you have a class" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple constructors/Time" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Calculations with two or three numbers from input" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Distribute method calls" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Implementing polymorphic add functions" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Shape-shifting numbers adventure" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Successful overloading" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the output" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Determine the value (1)" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Double characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Finding the longest word in a sentence" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Topics/Processing strings/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
